@@ -196,7 +196,18 @@ The margin word forms *(1. / 2. / 3. vorm)*:
 ## 14. TS
 *(page 73 — verbs: 1. / 2. / 3. vorm)*
 
-alustama · alustada · alustab — ehitama · ehitada · ehitab — kordama · korrata · kordab — leidma · leida · leiab — lõpetama · lõpetada · lõpetab — müüma · müüa · müüb — ostma · osta · ostab — otsima · otsida · otsib — pakkuma · pakkuda · pakub — tõlkima · tõlkida · tõlgib.
+| 1. vorm | 2. vorm | 3. vorm |
+|---|---|---|
+| alustama | alustada | alustab |
+| ehitama | ehitada | ehitab |
+| kordama | korrata | kordab |
+| leidma | leida | leiab |
+| lõpetama | lõpetada | lõpetab |
+| müüma | müüa | müüb |
+| ostma | osta | ostab |
+| otsima | otsida | otsib |
+| pakkuma | pakkuda | pakub |
+| tõlkima | tõlkida | tõlgib |
 
 ---
 

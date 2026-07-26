@@ -95,7 +95,16 @@
 ## 8. TS
 *(page 19 — verbs)*
 
-helistama · helistada · helistab — küsima · küsida · küsib — saatma · saata · saadab — teadma · teada · teab — töötama · töötada · töötab — vabandama · vabandada · vabandab — vastama · vastata · vastab — ütlema · ütelda/öelda · ütleb.
+| 1. vorm | 2. vorm | 3. vorm |
+|---|---|---|
+| helistama | helistada | helistab |
+| küsima | küsida | küsib |
+| saatma | saata | saadab |
+| teadma | teada | teab |
+| töötama | töötada | töötab |
+| vabandama | vabandada | vabandab |
+| vastama | vastata | vastab |
+| ütlema | ütelda/öelda | ütleb |
 
 ---
 

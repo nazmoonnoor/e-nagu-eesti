@@ -84,7 +84,22 @@
 ## 7. TS
 *(page 15 — tegusõnad: infinitive · da-infinitive · present)*
 
-armastama · armastada · armastab — asuma · asuda · asub — elama · elada · elab — olema · olla · on — aru saama · ~ saada · saab ~ — kirjutama · kirjutada · kirjutab — lugema · lugeda · loeb — oskama · osata · oskab — pärit olema · ~ olla · on ~ — rääkima · rääkida · räägib — sündima · sündida · sünnib — tuttavaks saama · ~ saada · saab ~ — õpetama · õpetada · õpetab — õppima · õppida · õpib.
+| 1. vorm | 2. vorm | 3. vorm |
+|---|---|---|
+| armastama | armastada | armastab |
+| asuma | asuda | asub |
+| elama | elada | elab |
+| olema | olla | on |
+| aru saama | aru saada | saab aru |
+| kirjutama | kirjutada | kirjutab |
+| lugema | lugeda | loeb |
+| oskama | osata | oskab |
+| pärit olema | pärit olla | on pärit |
+| rääkima | rääkida | räägib |
+| sündima | sündida | sünnib |
+| tuttavaks saama | tuttavaks saada | saab tuttavaks |
+| õpetama | õpetada | õpetab |
+| õppima | õppida | õpib |
 
 ---
 

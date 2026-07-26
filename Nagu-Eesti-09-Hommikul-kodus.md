@@ -131,7 +131,16 @@ The margin word forms *(1. / 2. / 3. vorm)*: kahvel · kahvli · kahvlit — kan
 ## 7. TS
 *(page 66 — verbs: 1. / 2. / 3. vorm)*
 
-andma · anda · annab — helisema · heliseda · heliseb — jooma · juua · joob — panema · panna · paneb — pesema · pesta · peseb — sööma · süüa · sööb — võima · võida · võib — võtma · võtta · võtab.
+| 1. vorm | 2. vorm | 3. vorm |
+|---|---|---|
+| andma | anda | annab |
+| helisema | heliseda | heliseb |
+| jooma | juua | joob |
+| panema | panna | paneb |
+| pesema | pesta | peseb |
+| sööma | süüa | sööb |
+| võima | võida | võib |
+| võtma | võtta | võtab |
 
 ---
 

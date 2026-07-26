@@ -138,7 +138,18 @@
 ## 11. TS
 *(page 31 — verbs)*
 
-algama · alata · algab — hiljaks jääma · ~ jääda · jääb ~ — lõppema · lõppeda · lõpeb — maksma · maksta · maksab — minema · minna · läheb — sõitma · sõita · sõidab — tegema · teha · teeb — tulema · tulla · tuleb — tänama · tänada · tänab — üles tõusma · ~ tõusta · tõuseb ~.
+| 1. vorm | 2. vorm | 3. vorm |
+|---|---|---|
+| algama | alata | algab |
+| hiljaks jääma | hiljaks jääda | jääb hiljaks |
+| lõppema | lõppeda | lõpeb |
+| maksma | maksta | maksab |
+| minema | minna | läheb |
+| sõitma | sõita | sõidab |
+| tegema | teha | teeb |
+| tulema | tulla | tuleb |
+| tänama | tänada | tänab |
+| üles tõusma | üles tõusta | tõuseb üles |
 
 ---
 

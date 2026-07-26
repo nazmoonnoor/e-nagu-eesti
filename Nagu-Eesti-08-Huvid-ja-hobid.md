@@ -157,7 +157,18 @@ rattaga (sõita) · telekat (vaadata) · kinos (käia) · aias (töötada) · me
 ## 11. TS
 *(page 60 — verbs: 1. / 2. / 3. vorm)*
 
-aitama · aidata · aitab — kohtuma · kohtuda · kohtub — koristama · koristada · koristab — kuulama · kuulata · kuulab — kuulma · kuulda · kuuleb — nägema · näha · näeb — ootama · oodata · ootab — sobima · sobida · sobib — suusatama · suusatada · suusatab — uisutama · uisutada · uisutab.
+| 1. vorm | 2. vorm | 3. vorm |
+|---|---|---|
+| aitama | aidata | aitab |
+| kohtuma | kohtuda | kohtub |
+| koristama | koristada | koristab |
+| kuulama | kuulata | kuulab |
+| kuulma | kuulda | kuuleb |
+| nägema | näha | näeb |
+| ootama | oodata | ootab |
+| sobima | sobida | sobib |
+| suusatama | suusatada | suusatab |
+| uisutama | uisutada | uisutab |
 
 ---
 

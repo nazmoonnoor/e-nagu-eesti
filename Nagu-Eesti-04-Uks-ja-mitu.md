@@ -108,7 +108,14 @@
 ## 7. TS
 *(page 24 — verbs)*
 
-arvama · arvata · arvab — istuma · istuda · istub — meeldima · meeldida · meeldib — muretsema · muretseda · muretseb — seisma · seista · seisab — vaatama · vaadata · vaatab.
+| 1. vorm | 2. vorm | 3. vorm |
+|---|---|---|
+| arvama | arvata | arvab |
+| istuma | istuda | istub |
+| meeldima | meeldida | meeldib |
+| muretsema | muretseda | muretseb |
+| seisma | seista | seisab |
+| vaatama | vaadata | vaatab |
 
 ---
 
