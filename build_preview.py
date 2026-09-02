@@ -35,6 +35,9 @@ def read(name):
     return open(p, encoding="utf-8").read() if os.path.exists(p) else ""
 
 BOOKS = [  # (book title, [(file base, short label, full label), ...])
+    ("Eksamiks", [
+        ("A2-Exam-Overview", "Ülevaade", "Overview — E nagu Eesti"),
+    ]),
     ("E nagu Eesti", [
         ("Nagu-Eesti-01-Tere", "1 · Tere!", "1 · Tere!"),
         ("Nagu-Eesti-02-Maad-ja-keeled", "2 · Maad ja keeled", "2 · Maad ja keeled"),

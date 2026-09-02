@@ -2,6 +2,12 @@
 
 A chapter-by-chapter learning wiki for the **Estonian A2 exam**, built from two coursebooks. Each chapter page follows the **same order as the printed book** and is broken into clear sections: phrases, dialogues, vocabulary, readings, grammar, exercises (with answers) and a word list. **Estonian** is given first, with **English** in a second column or in a collapsible translation.
 
+## 🎯 Eksamiks
+
+| Page | What it is | Status |
+|------|------------|--------|
+| [Overview — E nagu Eesti](A2-Exam-Overview.md) | Bird's-eye map: chapter topics, Keeletark grammar, exam priorities and traps | 🚧 Chapters 1–2 |
+
 ## 📕 E nagu Eesti
 
 | # | Chapter | Book pages | Status |
