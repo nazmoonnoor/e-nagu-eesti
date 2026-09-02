@@ -6,7 +6,7 @@ A chapter-by-chapter learning wiki for the **Estonian A2 exam**, built from two 
 
 | Page | What it is | Status |
 |------|------------|--------|
-| [Overview — E nagu Eesti](A2-Exam-Overview.md) | Bird's-eye map: chapter topics, Keeletark grammar, exam priorities and traps | 🚧 Chapters 1–2 |
+| [Overview — E nagu Eesti](Overview-E-nagu-Eesti.md) | Bird's-eye map: chapter topics, Keeletark grammar, exam priorities and traps | 🚧 Chapters 1–2 |
 
 ## 📕 E nagu Eesti
 

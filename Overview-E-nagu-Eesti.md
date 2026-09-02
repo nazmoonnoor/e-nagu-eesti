@@ -10,41 +10,41 @@
 
 ## Peatükkide kaart
 
-Chapters marked *— ei ole veel —* are not summarised yet.
+The **Peatükk** link jumps to that chapter's overview card further down this page. Chapters marked *— ei ole veel —* have no card yet, so they are not linked; the coursebook page is reachable from each card's *open the chapter →* link.
 
 | # | Peatükk | Lk | Teemad | Keeletark | Tase |
 |---|---------|----|--------|-----------|------|
-| 1 | [Tere!](Nagu-Eesti-01-Tere.md) | 10–13 | Greetings, alphabet, Estonian geography, body | `olema` · present endings · `ei` + verb · `-s / -l` | Recap |
-| 2 | [Maad ja keeled](Nagu-Eesti-02-Maad-ja-keeled.md) | 14–17 | Countries, nationalities, language skills | `kus?/kust?` (`-s -l -st -lt`) · `-lane/-lased` · `pärit olema` | **Core A2** |
-| 3 | [Kus sa elad?](Nagu-Eesti-03-Kus-sa-elad.md) | 18–21 | — ei ole veel — | — | — |
-| 4 | [Üks ja mitu](Nagu-Eesti-04-Uks-ja-mitu.md) | 22–25 | — ei ole veel — | — | — |
-| 5 | [Kuhu sa lähed?](Nagu-Eesti-05-Kuhu-sa-lahed.md) | 28–33 | — ei ole veel — | — | — |
-| — | [Kordamine 1–5](Nagu-Eesti-05b-Kordamine-1-5.md) | 34–45 | — ei ole veel — | — | — |
-| 6 | [Aastaajad](Nagu-Eesti-06-Aastaajad.md) | 46–51 | — ei ole veel — | — | — |
-| 7 | [Pere ja kodu](Nagu-Eesti-07-Pere-ja-kodu.md) | 52–57 | — ei ole veel — | — | — |
-| 8 | [Huvid ja hobid](Nagu-Eesti-08-Huvid-ja-hobid.md) | 58–63 | — ei ole veel — | — | — |
-| 9 | [Hommikul kodus](Nagu-Eesti-09-Hommikul-kodus.md) | 64–69 | — ei ole veel — | — | — |
-| 10 | [Töö ja haridus](Nagu-Eesti-10-Too-ja-haridus.md) | 70–75 | — ei ole veel — | — | — |
-| — | [Kordamine 6–10](Nagu-Eesti-10b-Kordamine-6-10.md) | 76–87 | — ei ole veel — | — | — |
-| 11 | [Lähme poodi](Nagu-Eesti-11-Lahme-poodi.md) | 88–95 | — ei ole veel — | — | — |
-| 12 | [Kohvikus](Nagu-Eesti-12-Kohvikus.md) | 96–101 | — ei ole veel — | — | — |
-| 13 | [Üürime korteri](Nagu-Eesti-13-Üürime-korteri.md) | 102–107 | — ei ole veel — | — | — |
-| 14 | [Uues kodus](Nagu-Eesti-14-Uues-kodus.md) | 108–113 | — ei ole veel — | — | — |
-| 15 | [Tulge külla!](Nagu-Eesti-15-Tulge-kulla.md) | 114–119 | — ei ole veel — | — | — |
-| — | [Kordamine 11–15](Nagu-Eesti-15b-Kordamine-11-15.md) | 120–131 | — ei ole veel — | — | — |
-| 16 | [Linnas](Nagu-Eesti-16-Linnas.md) | 132–137 | — ei ole veel — | — | — |
-| 17 | [Asju ajamas](Nagu-Eesti-17-Asju-ajamas.md) | 138–143 | — ei ole veel — | — | — |
-| 18 | [Kaubamajas](Nagu-Eesti-18-Kaubamajas.md) | 144–149 | — ei ole veel — | — | — |
-| 19 | [Arsti juures](Nagu-Eesti-19-Arsti-juures.md) | 150–157 | — ei ole veel — | — | — |
-| 20 | [Mis juhtus?](Nagu-Eesti-20-Mis-juhtus.md) | 158–163 | — ei ole veel — | — | — |
-| — | [Kordamine 16–20](Nagu-Eesti-20b-Kordamine-16-20.md) | 164–171 | — ei ole veel — | — | — |
-| 21 | [Üks tööpäev](Nagu-Eesti-21-Uks-toopaev.md) | 172–177 | — ei ole veel — | — | — |
-| 22 | [Sõbrad](Nagu-Eesti-22-Sobrad.md) | 178–183 | — ei ole veel — | — | — |
-| 23 | [Ole terve!](Nagu-Eesti-23-Ole-terve.md) | 184–189 | — ei ole veel — | — | — |
-| 24 | [Puhkusele!](Nagu-Eesti-24-Puhkusele.md) | 190–195 | — ei ole veel — | — | — |
-| 25 | [Reisime Eestis](Nagu-Eesti-25-Reisime-Eestis.md) | 196–201 | — ei ole veel — | — | — |
-| — | [Kordamine 21–25](Nagu-Eesti-25b-Kordamine-21-25.md) | 202–207 | — ei ole veel — | — | — |
-| 📘 | [Grammatikalisad](Nagu-Eesti-Grammatikalisad.md) | 208–215 | — ei ole veel — | — | — |
+| 1 | [Tere!](#chapter-1--tere) | 10–13 | Greetings, alphabet, Estonian geography, body | `olema` · present endings · `ei` + verb · `-s / -l` | Recap |
+| 2 | [Maad ja keeled](#chapter-2--maad-ja-keeled) | 14–17 | Countries, nationalities, language skills | `kus?/kust?` (`-s -l -st -lt`) · `-lane/-lased` · `pärit olema` | **Core A2** |
+| 3 | Kus sa elad? | 18–21 | — ei ole veel — | — | — |
+| 4 | Üks ja mitu | 22–25 | — ei ole veel — | — | — |
+| 5 | Kuhu sa lähed? | 28–33 | — ei ole veel — | — | — |
+| — | Kordamine 1–5 | 34–45 | — ei ole veel — | — | — |
+| 6 | Aastaajad | 46–51 | — ei ole veel — | — | — |
+| 7 | Pere ja kodu | 52–57 | — ei ole veel — | — | — |
+| 8 | Huvid ja hobid | 58–63 | — ei ole veel — | — | — |
+| 9 | Hommikul kodus | 64–69 | — ei ole veel — | — | — |
+| 10 | Töö ja haridus | 70–75 | — ei ole veel — | — | — |
+| — | Kordamine 6–10 | 76–87 | — ei ole veel — | — | — |
+| 11 | Lähme poodi | 88–95 | — ei ole veel — | — | — |
+| 12 | Kohvikus | 96–101 | — ei ole veel — | — | — |
+| 13 | Üürime korteri | 102–107 | — ei ole veel — | — | — |
+| 14 | Uues kodus | 108–113 | — ei ole veel — | — | — |
+| 15 | Tulge külla! | 114–119 | — ei ole veel — | — | — |
+| — | Kordamine 11–15 | 120–131 | — ei ole veel — | — | — |
+| 16 | Linnas | 132–137 | — ei ole veel — | — | — |
+| 17 | Asju ajamas | 138–143 | — ei ole veel — | — | — |
+| 18 | Kaubamajas | 144–149 | — ei ole veel — | — | — |
+| 19 | Arsti juures | 150–157 | — ei ole veel — | — | — |
+| 20 | Mis juhtus? | 158–163 | — ei ole veel — | — | — |
+| — | Kordamine 16–20 | 164–171 | — ei ole veel — | — | — |
+| 21 | Üks tööpäev | 172–177 | — ei ole veel — | — | — |
+| 22 | Sõbrad | 178–183 | — ei ole veel — | — | — |
+| 23 | Ole terve! | 184–189 | — ei ole veel — | — | — |
+| 24 | Puhkusele! | 190–195 | — ei ole veel — | — | — |
+| 25 | Reisime Eestis | 196–201 | — ei ole veel — | — | — |
+| — | Kordamine 21–25 | 202–207 | — ei ole veel — | — | — |
+| 📘 | Grammatikalisad | 208–215 | — ei ole veel — | — | — |
 
 ---
 

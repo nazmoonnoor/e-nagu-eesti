@@ -36,7 +36,7 @@ def read(name):
 
 BOOKS = [  # (book title, [(file base, short label, full label), ...])
     ("Eksamiks", [
-        ("A2-Exam-Overview", "Ülevaade", "Overview — E nagu Eesti"),
+        ("Overview-E-nagu-Eesti", "Ülevaade", "Overview — E nagu Eesti"),
     ]),
     ("E nagu Eesti", [
         ("Nagu-Eesti-01-Tere", "1 · Tere!", "1 · Tere!"),
