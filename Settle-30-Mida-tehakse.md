@@ -61,23 +61,23 @@ Mida sa teed **toas**? · **õues**? · **nädalavahetusel**? · **suvel**? · *
 
 | Jaatav *(one does)* | Eitav *(one doesn't)* |
 |---|---|
-| jalutatakse | ei käida |
-| magatakse | ei koristata |
-| töötatakse | ei minda |
-| mängitakse | ei olda |
-| koristatakse | ei jalutata |
-| vaadatakse | ei jooda |
-| loetakse | ei magata |
-| pestakse | ei sööda |
-| puhatakse | ei vaadata |
-| sõidetakse | ei tehta |
-| ostetakse | ei sõideta |
-| süüakse | ei pesta |
-| juuakse | ei mängita |
-| minnakse | ei loeta |
-| käiakse | ei osteta |
-| ollakse | ei töötata |
-| tehakse | ei puhata |
+| jaluta**takse** | ei käi**da** |
+| maga**takse** | ei korista**ta** |
+| tööta**takse** | ei min**da** |
+| mängi**takse** | ei ol**da** |
+| korista**takse** | ei jaluta**ta** |
+| vaada**takse** | ei joo**da** |
+| loe**takse** | ei maga**ta** |
+| pes**takse** | ei söö**da** |
+| puha**takse** | ei vaada**ta** |
+| sõide**takse** | ei teh**ta** |
+| oste**takse** | ei sõide**ta** |
+| süü**akse** | ei pes**ta** |
+| juu**akse** | ei mängi**ta** |
+| minn**akse** | ei loe**ta** |
+| käi**akse** | ei oste**ta** |
+| oll**akse** | ei tööta**ta** |
+| teh**akse** | ei puha**ta** |
 
 > 🔹 *Mida **tehakse** saunas? Mida **tehakse** metsas? Mida **tehakse** aastavahetusel / pulmades?*
 

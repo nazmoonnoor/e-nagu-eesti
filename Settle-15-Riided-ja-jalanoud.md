@@ -37,21 +37,21 @@
 
 | Mitmuse I vorm *(nom. pl)* | Mitmuse II vorm *(gen. pl)* | English |
 |---|---|---|
-| kingad | kingade | shoes |
-| saapad | saabaste | boots |
-| tossud | tossude | trainers |
-| tennised | tenniste | plimsolls / sneakers |
-| plätud | plätude | flip-flops |
-| kummikud | kummikute | rubber boots |
-| sussid | susside | slippers |
-| sokid | sokkide | socks |
-| sukkpüksid | sukkpükste | tights |
-| püksid | pükste | trousers |
-| teksad | teksade | jeans |
-| dressid | dresside | tracksuit |
-| kindad | kinnaste | gloves |
-| prillid | prillide | glasses |
-| ujumisriided | ujumisriiete | swimwear |
+| kinga**d** | kinga**de** | shoes |
+| saapa**d** | saabas**te** | boots |
+| tossu**d** | tossu**de** | trainers |
+| tennise**d** | tennis**te** | plimsolls / sneakers |
+| plätu**d** | plätu**de** | flip-flops |
+| kummiku**d** | kummiku**te** | rubber boots |
+| sussi**d** | sussi**de** | slippers |
+| soki**d** | sokki**de** | socks |
+| sukkpüksi**d** | sukkpüks**te** | tights |
+| püksi**d** | püks**te** | trousers |
+| teksa**d** | teksa**de** | jeans |
+| dressi**d** | dressi**de** | tracksuit |
+| kinda**d** | kinnas**te** | gloves |
+| prilli**d** | prilli**de** | glasses |
+| ujumisriide**d** | ujumisriie**te** | swimwear |
 
 ---
 

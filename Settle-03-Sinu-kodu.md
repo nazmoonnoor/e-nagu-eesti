@@ -23,18 +23,18 @@
 ## 2. Mitmes korrus?
 *(page 13 — ordinal numbers 1–10)*
 
-| # | Mitmes? *(which)* | Mitmendal korrusel? *(on which floor)* |
+| # | Mitmes? *(which)* | Mitmendal? *(on which floor)**l** korrusel |
 |---|---|---|
-| 1 | esimene | esimesel korrusel |
-| 2 | teine | teisel korrusel |
-| 3 | kolmas | kolmandal korrusel |
-| 4 | neljas | neljandal korrusel |
-| 5 | viies | viiendal korrusel |
-| 6 | kuues | kuuendal korrusel |
-| 7 | seitsmes | seitsmendal korrusel |
-| 8 | kaheksas | kaheksandal korrusel |
-| 9 | üheksas | üheksandal korrusel |
-| 10 | kümnes | kümnendal korrusel |
+| 1 | esime**ne** | esimese**l** korrusel |
+| 2 | tei**ne** | teise**l** korrusel |
+| 3 | kolma**s** | kolmanda**l** korrusel |
+| 4 | nelja**s** | neljanda**l** korrusel |
+| 5 | viie**s** | viienda**l** korrusel |
+| 6 | kuue**s** | kuuenda**l** korrusel |
+| 7 | seitsme**s** | seitsmenda**l** korrusel |
+| 8 | kaheksa**s** | kaheksanda**l** korrusel |
+| 9 | üheksa**s** | üheksanda**l** korrusel |
+| 10 | kümne**s** | kümnenda**l** korrusel |
 
 ---
 

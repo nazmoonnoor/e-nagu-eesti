@@ -25,14 +25,14 @@
 
 | Olevik | Tingiv (-ks) |
 |---|---|
-| tahan | tahaks |
-| töötan | töötaks |
-| olen | oleks |
-| elan | elaks |
-| teen | teeks |
-| lähen | läheks |
-| ostan | ostaks |
-| reisin | reisiks |
+| tahan | taha**ks** |
+| töötan | tööta**ks** |
+| olen | ole**ks** |
+| elan | ela**ks** |
+| teen | tee**ks** |
+| lähen | lähe**ks** |
+| ostan | osta**ks** |
+| reisin | reisi**ks** |
 
 ---
 
@@ -41,12 +41,12 @@
 
 | Ametlik *(formal)* | Kõnekeel *(everyday)* |
 |---|---|
-| ma tahaksin | ma tahaks |
-| sa tahaksid | sa tahaks |
-| ta tahaks | ta tahaks |
-| me tahaksime | me tahaks |
-| te tahaksite | te tahaks |
-| nad tahaksid | nad tahaks |
+| ma taha**ksin** | ma taha**ks** |
+| sa taha**ksid** | sa taha**ks** |
+| ta taha**ks** | ta taha**ks** |
+| me taha**ksime** | me taha**ks** |
+| te taha**ksite** | te taha**ks** |
+| nad taha**ksid** | nad taha**ks** |
 
 > 🔹 Eitus: *ma, sa, ta, me, te, nad **ei tahaks**.*
 

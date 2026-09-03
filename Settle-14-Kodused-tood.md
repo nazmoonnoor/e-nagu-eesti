@@ -31,16 +31,16 @@
 
 | mina-vorm | MA-vorm | DA-vorm |
 |---|---|---|
-| koristan tuba | tuba koristama | tuba koristada |
-| parandan autot | autot parandama | autot parandada |
-| sorteerin prügi | prügi sorteerima | prügi sorteerida |
-| triigin pesu | pesu triikima | pesu triikida |
-| pesen nõusid | nõusid pesema | nõusid pesta |
-| pesen aknaid | aknaid pesema | aknaid pesta |
-| viin prügi välja | prügi välja viima | prügi välja viia |
-| käin poes | poes käima | poes käia |
-| teen süüa | süüa tegema | süüa teha |
-| jalutan koeraga | koeraga jalutama | koeraga jalutada |
+| koristan tuba | tuba korista**ma** | tuba korista**da** |
+| parandan autot | autot paranda**ma** | autot paranda**da** |
+| sorteerin prügi | prügi sorteeri**ma** | prügi sorteeri**da** |
+| triigin pesu | pesu triiki**ma** | pesu triiki**da** |
+| pesen nõusid | nõusid pese**ma** | nõusid pes**ta** |
+| pesen aknaid | aknaid pese**ma** | aknaid pes**ta** |
+| viin prügi välja | prügi välja vii**ma** | prügi välja vii**a** |
+| käin poes | poes käi**ma** | poes käi**a** |
+| teen süüa | süüa tege**ma** | süüa teh**a** |
+| jalutan koeraga | koeraga jaluta**ma** | koeraga jaluta**da** |
 
 > 🔹 **MA-vorm** after **pean · hakkan**: *Ma **pean** remonti **tegema**. Ma **hakkan** koristama.*
 > **DA-vorm** after **meeldib · oskan · tahan · on vaja**: *Mulle **meeldib** süüa **teha**. Ma **oskan** parandada. Mul **on vaja** nõusid **pesta**.*

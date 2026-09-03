@@ -69,26 +69,26 @@ The polite (or plural "teie") command adds **-ge / -ke** to the verb stem; the p
 
 | Kas ma võin …? | Käsk *(do!)* | Keeld *(don't!)* |
 |---|---|---|
-| … aias töötada? | Töötage! | Ärge töötage! |
-| … päeval magada? | Magage! | Ärge magage! |
-| … linnas jalutada? | Jalutage! | Ärge jalutage! |
-| … rõdul päevitada? | Päevitage! | Ärge päevitage! |
-| … ujuda? | Ujuge! | Ärge ujuge! |
-| … raamatut lugeda? | Lugege! | Ärge lugege! |
-| … rääkida? | Rääkige! | Ärge rääkige! |
-| … reisida? | Reisige! | Ärge reisige! |
-| … tantsida? | Tantsige! | Ärge tantsige! |
-| … laulda? | Laulge! | Ärge laulge! |
-| … korterit koristada? | Koristage! | Ärge koristage! |
-| … šokolaadi süüa? | Sööge! | Ärge sööge! |
-| … õlut juua? | Jooge! | Ärge jooge! |
-| … saunas käia? | Käige! | Ärge käige! |
-| … perega koos olla? | Olge! | Ärge olge! |
-| … homme tööle minna? | Minge! | Ärge minge! |
-| … televiisorit vaadata? | Vaadake! | Ärge vaadake! |
-| … aknaid pesta? | Peske! | Ärge peske! |
-| … jalgrattaga sõita? | Sõitke! | Ärge sõitke! |
-| … sporti teha? | Tehke! | Ärge tehke! |
+| … aias töötada? | Tööta**ge**! | **Ärge** tööta**ge**! |
+| … päeval magada? | Maga**ge**! | **Ärge** maga**ge**! |
+| … linnas jalutada? | Jaluta**ge**! | **Ärge** jaluta**ge**! |
+| … rõdul päevitada? | Päevita**ge**! | **Ärge** päevita**ge**! |
+| … ujuda? | Uju**ge**! | **Ärge** uju**ge**! |
+| … raamatut lugeda? | Luge**ge**! | **Ärge** luge**ge**! |
+| … rääkida? | Rääki**ge**! | **Ärge** rääki**ge**! |
+| … reisida? | Reisi**ge**! | **Ärge** reisi**ge**! |
+| … tantsida? | Tantsi**ge**! | **Ärge** tantsi**ge**! |
+| … laulda? | Laul**ge**! | **Ärge** laul**ge**! |
+| … korterit koristada? | Korista**ge**! | **Ärge** korista**ge**! |
+| … šokolaadi süüa? | Söö**ge**! | **Ärge** söö**ge**! |
+| … õlut juua? | Joo**ge**! | **Ärge** joo**ge**! |
+| … saunas käia? | Käi**ge**! | **Ärge** käi**ge**! |
+| … perega koos olla? | Ol**ge**! | **Ärge** ol**ge**! |
+| … homme tööle minna? | Min**ge**! | **Ärge** min**ge**! |
+| … televiisorit vaadata? | Vaada**ke**! | **Ärge** vaada**ke**! |
+| … aknaid pesta? | Pes**ke**! | **Ärge** pes**ke**! |
+| … jalgrattaga sõita? | Sõit**ke**! | **Ärge** sõit**ke**! |
+| … sporti teha? | Teh**ke**! | **Ärge** teh**ke**! |
 
 > 🔹 **Mida sinu vanaema ütleb?** *(page 157)* — *Mul on nohu.* → **Jooge teed! Magage! Ärge käige väljas!** *Ma olen kogu aeg väsinud.* → **Puhake! Ärge töötage nii palju! Magage rohkem!**
 
