@@ -36,7 +36,8 @@ def read(name):
 
 BOOKS = [  # (book title, [(file base, short label, full label), ...])
     ("Eksamiks", [
-        ("Overview-E-nagu-Eesti", "Ülevaade", "Overview — E nagu Eesti"),
+        ("Overview-E-nagu-Eesti", "Ülevaade · E nagu Eesti", "Overview — E nagu Eesti"),
+        ("Overview-Settle-in-Estonia", "Ülevaade · Settle", "Overview — Settle in Estonia"),
     ]),
     ("E nagu Eesti", [
         ("Nagu-Eesti-01-Tere", "1 · Tere!", "1 · Tere!"),
@@ -217,6 +218,8 @@ table{border-collapse:collapse;width:100%;margin:1.1em 0;display:block;overflow:
 th,td{border:1px solid var(--line);padding:8px 14px;text-align:left;vertical-align:top}
 th{background:var(--th-bg);font-weight:700}
 td{background:var(--row)}
+/* grammar endings and key forms in tables get the code colour, like `code` spans */
+td strong,th strong{color:var(--code-fg)}
 blockquote{margin:1.1em 0;padding:.7em 1em;color:var(--fg);background:var(--note-bg);
   border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:8px}
 blockquote p{margin:.3em 0}
