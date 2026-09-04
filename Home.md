@@ -9,6 +9,7 @@ A chapter-by-chapter learning wiki for the **Estonian A2 exam**, built from two 
 | [Overview — E nagu Eesti](Overview-E-nagu-Eesti.md) | Bird's-eye map: chapter topics, Keeletark grammar, exam priorities and traps | ✅ Complete — all 25 chapters, Kordamine and Grammatikalisad |
 | [Overview — Settle in Estonia](Overview-Settle-in-Estonia.md) | Bird's-eye map: chapter topics, the grammar point of each chapter, exam priorities and traps | ✅ Complete — all 30 chapters and Kordamine |
 | [Tegevused — Settle in Estonia](Tegevused-Settle-in-Estonia.md) | 245 activity phrases (verb + its object) grouped by theme, with meanings and example sentences | ✅ Complete — all 30 chapters |
+| [Küsimused ja vastused — A2 eksamiks](Kysimused-A2-eksamiks.md) | 125 speaking-test questions with model answers, grouped by exam topic, from both coursebooks | ✅ Complete |
 
 ## 📕 E nagu Eesti
 
