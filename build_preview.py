@@ -38,6 +38,7 @@ BOOKS = [  # (book title, [(file base, short label, full label), ...])
     ("Eksamiks", [
         ("Overview-E-nagu-Eesti", "Ülevaade · E nagu Eesti", "Overview — E nagu Eesti"),
         ("Overview-Settle-in-Estonia", "Ülevaade · Settle", "Overview — Settle in Estonia"),
+        ("Tegevused-Settle-in-Estonia", "Tegevused · Settle", "Tegevused — Settle in Estonia"),
     ]),
     ("E nagu Eesti", [
         ("Nagu-Eesti-01-Tere", "1 · Tere!", "1 · Tere!"),
